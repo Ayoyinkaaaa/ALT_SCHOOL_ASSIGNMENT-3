@@ -15,7 +15,7 @@ body {
 
 .container {
     width: 1440px;
-     height: auto;
+     height: 1170px;
     position: relative;
     background: #F5F8FA;
     display: flex;
