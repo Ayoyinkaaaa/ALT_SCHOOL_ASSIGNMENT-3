@@ -1,0 +1,1 @@
+create a pixel-perfect design based on the provided Figma file. The goal is to replicate the design as closely as possible, ensuring that all elements are accurately positioned and styled to match the original design.Link to the figma file: https://www.figma.com/file/OJMDeEi2fWlPBFrlJFEgFx/wp-pusher-checkout?type=design&mode=design&t=KXSthmp0easnvUhR-1
